@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire Emblem Project", "Fire Emblem Project.csproj", "{D9E41CFB-D2F8-2A8A-3162-769B29B74618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire Emblem Project.Editor", "Fire Emblem Project.Editor.csproj", "{C8067755-23DF-0EA2-5893-37FAD74B823B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E41CFB-D2F8-2A8A-3162-769B29B74618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E41CFB-D2F8-2A8A-3162-769B29B74618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E41CFB-D2F8-2A8A-3162-769B29B74618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E41CFB-D2F8-2A8A-3162-769B29B74618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8067755-23DF-0EA2-5893-37FAD74B823B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8067755-23DF-0EA2-5893-37FAD74B823B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8067755-23DF-0EA2-5893-37FAD74B823B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8067755-23DF-0EA2-5893-37FAD74B823B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
